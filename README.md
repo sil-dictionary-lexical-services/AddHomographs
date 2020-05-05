@@ -23,5 +23,5 @@ SAMPLE USAGE:
  To run this customized script on this sample data, go to the folder where
  the sample data file is, and type this on the command line:
 
-   perl add_hm.pl
+   perl add_hm-Eng.pl
 
