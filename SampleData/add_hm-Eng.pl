@@ -1,4 +1,4 @@
-﻿=comment
+=comment
 
 This script checks to see if all homonyms are ordered.  It will:
 1. Create a report indicating which records are missing homographs
@@ -61,10 +61,10 @@ use feature ':5.10';
 use Data::Dumper qw(Dumper);
 
 
-# EDIT THESE VARIABLES TO SPECIFY FILENAMES FOR INPUT, OUTPUT, AND LOG FILES
-my $infile = '';
-my $outfile= '';
-my $log_file= '';
+#update these files:
+my $infile = 'SampleEng-BeforeAddHM.db';
+my $outfile= 'SampleEng-AfterAddHM.db';
+my $log_file= 'Log-AddHM.txt';
 
 
 my $row;

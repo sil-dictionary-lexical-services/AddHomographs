@@ -1,0 +1,4 @@
+Updating lexeme bonnet with hm 1
+Updating lexeme bonnet with hm 2
+Updating lexeme bank with hm 4
+Input file SampleEng-BeforeAddHM.db Output file SampleEng-AfterAddHM.db
