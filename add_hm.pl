@@ -32,7 +32,7 @@ Modified:	2/13/20	Beth Bryson	Add more comments
 Usage:
 Edit this file to add infile, outfile, and logfile names.
 Example:
-my $infile = 'lex.db';
+my $infile = 'lex.db';		# don't edit these lines, they are commented out
 my $outfile= 'newlex.db';
 my $log_file= 'myLog.txt';
 
