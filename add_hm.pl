@@ -1,4 +1,4 @@
-﻿=comment
+=comment
 
 This script checks to see if all homonyms are ordered.  It will:
 1. Create a report indicating which records are missing homographs
